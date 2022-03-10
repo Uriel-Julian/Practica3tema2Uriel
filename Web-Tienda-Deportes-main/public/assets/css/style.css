@@ -1,0 +1,19 @@
+/* Mi estilo */
+
+#footer .fab {
+	font-size: 30px;
+}
+
+#footer p {
+	font-size: 12px;
+}
+
+#footer .list-group .list-group-item {
+	border: none;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#footer a {
+	color: rgb(0, 0, 0);
+}
